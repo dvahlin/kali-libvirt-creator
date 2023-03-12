@@ -1,0 +1,16 @@
+        KALI-LIBVIRT-CREATOR - Kali Libvirt Creator
+
+https://github.com/mattias-ohlsson/ubuntu-desktop-libvirt-creator
+
+INSTALL
+
+    make install
+
+UNINSTALL
+
+    rm -f /usr/bin/kali-libvirt-creator
+    rm -rf /usr/lib/kali-libvirt-creator
+
+PASSWORDS
+
+  - root: Pass@word01
